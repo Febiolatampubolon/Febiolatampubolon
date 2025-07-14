@@ -1,5 +1,7 @@
 ## Holaa 👋, I'm Febiola Tampubolon
 
+![Febiola Tampubolon](img/github-header-image.png)
+
 I’m an enthusiastic developer passionate about building impactful software solutions. Welcome to my GitHub profile!
 
 ### 🚀 About Me
@@ -14,7 +16,7 @@ I’m an enthusiastic developer passionate about building impactful software sol
 - 🤝 Contributing to open-source and collaborative tech communities
 
 ### 🧠 Tech Stack
-- **Frontend:** React, HTML, CSS, Tailwind CSS, JavaScript
+- **Frontend:** React, HTML, CSS,  Tailwind CSS, JavaScript
 - **Backend:** Laravel, Node.js, Express
 - **Mobile:** Flutter, Kotlin (basic)
 - **Database:** MySQL, Firebase
