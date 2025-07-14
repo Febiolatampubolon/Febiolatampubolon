@@ -10,17 +10,6 @@ I’m an enthusiastic developer passionate about building impactful software sol
 - 🌐 Exploring modern tech stacks like React, Laravel, and Flutter
 - 🛠️ Experienced in working on real-world projects, both academic and professional
 
-### 💼 Current Focus
-- 📱 Building scalable mobile and web applications
-- 📊 Improving my skills in backend integration and API design
-- 🤝 Contributing to open-source and collaborative tech communities
-
-### 🧠 Tech Stack
-- **Frontend:** React, HTML, CSS,  Tailwind CSS, JavaScript
-- **Backend:** Laravel, Node.js, Express
-- **Mobile:** Flutter, Kotlin (basic)
-- **Database:** MySQL, Firebase
-- **Tools:** Git, GitHub, Postman, Figma, VS Code
 
 ### 📫 Let’s Connect
 - Email: tampubolonfebiola@gmail.com
