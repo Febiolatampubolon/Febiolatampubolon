@@ -33,10 +33,10 @@ I’m an enthusiastic developer passionate about building impactful software sol
 
 ### 📫 Let’s Connect
 
-- 📸 Instagram: ![@febiola_tampubolon](https://instagram.com/febiola_tampubolon)
-- 📧 Email: ![tampubolonfebiola@gmail.com](mailto:tampubolonfebiola@gmail.com)
-- 💼 LinkedIn: ![linkedin.com/in/febiolatampubolon](https://linkedin.com/in/febiolatampubolon)
-- 🐙 GitHub: ![github.com/Febiolatampubolon](https://github.com/Febiolatampubolon)
+- 📸 Instagram: [@febiola_tampubolon](https://instagram.com/febiola_tampubolon)
+- 📧 Email: [tampubolonfebiola@gmail.com](mailto:tampubolonfebiola@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/febiolatampubolon](https://linkedin.com/in/febiolatampubolon)
+- 🐙 GitHub: [github.com/Febiolatampubolon](https://github.com/Febiolatampubolon)
 
 ---
 
